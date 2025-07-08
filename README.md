@@ -32,4 +32,4 @@ Open index.html in any web browser.
 Click the Generate button to display a new random image.
 
 👨‍💻 Author
-Sanni Kuma
+Sanni Kumar
